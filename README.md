@@ -1,5 +1,5 @@
 ## Configuration
-Put a config file named `.env` in the same folder as `calbot-mail.py` folder containing the following keys:  
+Put a config file named `.env` in the same folder as `calbot-mail.py` containing the following keys:  
 
 
 ```
